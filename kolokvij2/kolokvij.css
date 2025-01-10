@@ -1,0 +1,191 @@
+.flag {
+
+    width: 300px;
+
+    height: 200px;
+
+    display: block;
+
+}
+
+.red {
+
+    background-color: red;
+
+    height: 33%;
+
+    width: 100%;
+
+}
+
+.white {
+
+    background-color: white;
+
+    height: 33%;
+
+    width: 100%;
+
+}
+
+.blue {
+
+    background-color: blue;
+
+    height: 33%;
+
+    width: 100%;
+
+}
+
+
+.box {
+
+    width: 200px;
+
+    height: 100px;
+
+    margin: 20px;
+
+    padding: 15px;
+
+    border: 5px solid black;
+
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+
+    background-color: rgb(178, 69, 182);
+
+}
+
+
+
+.input-field {
+
+    border: 2px solid rgb(175, 47, 15);
+
+    padding: 10px;
+
+    margin: 10px;
+
+    width: 200px;
+
+}
+
+#special-input {
+
+    border: 2px solid rgb(38, 7, 122);
+
+    background-color: rgb(115, 191, 221);
+
+}
+
+.grid {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr;
+
+    gap: 10px;
+
+}
+
+.green{
+
+    padding: 20px;
+
+    text-align: center;
+
+    border: 1px solid black;
+
+    background-color: rgb(41, 160, 61);
+
+}
+
+.red{
+
+    padding: 20px;
+
+    text-align: center;
+
+    border: 1px solid black;
+
+    background-color: rgb(165, 22, 22);
+
+}
+.blue{
+
+    padding: 20px;
+
+    text-align: center;
+
+    border: 1px solid black;
+
+    background-color: rgb(37, 65, 189);
+
+}
+.purple{
+
+    padding: 20px;
+
+    text-align: center;
+
+    border: 1px solid black;
+
+    background-color: rgb(160, 41, 160);
+
+}
+.pink{
+
+    padding: 20px;
+
+    text-align: center;
+
+    border: 1px solid black;
+
+    background-color: rgb(197, 34, 134);
+
+}
+.yellow{
+
+    padding: 20px;
+
+    text-align: center;
+
+    border: 1px solid black;
+
+    background-color: rgb(204, 207, 31);
+
+}
+.grey{
+
+    padding: 20px;
+
+    text-align: center;
+
+    border: 1px solid black;
+
+    background-color: rgb(94, 95, 94);
+
+}
+.orange{
+
+    padding: 20px;
+
+    text-align: center;
+
+    border: 1px solid black;
+
+    background-color: rgb(219, 154, 32);
+
+}
+.cyan{
+
+    padding: 20px;
+
+    text-align: center;
+
+    border: 1px solid black;
+
+    background-color: rgb(50, 206, 218);
+
+}
