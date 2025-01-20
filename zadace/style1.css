@@ -1,0 +1,13 @@
+
+/* id */
+h1 { font-weight: 600;  ruby: merge 3px; font-size: 4 rem}
+h2 {color:  #4CAF50; }
+ul {color: #ECEFF1 ; }
+p1 { color: #3747AF; font-size: 16px;}
+p2 { color: #546e7a; font-size: 18px;}
+p3 { color: #78909c; font-size: 20px;}
+p4 { color:  #ffc107;}
+ul.a{list-style-type: circle;}
+ul.b{list-style-type: square;}
+ul.c{list-style-type: upper-alpha;}
+ul.d{list-style-type: disc;;}
